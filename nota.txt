@@ -1,3 +1,3 @@
-“Hari ini saya belajar Git dari GitHub web.”
+Hari ini saya belajar Git dengan lebih serius melalui komputer dan GitHub web.
 Saya sudah faham sedikit tentang git init.
 Saya juga belajar commit pertama dan push ke GitHub.
