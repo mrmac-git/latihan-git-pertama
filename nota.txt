@@ -1,1 +1,3 @@
 Hari ini saya belajar Git.
+Saya sudah faham sedikit tentang git init.
+Saya juga belajar commit pertama dan push ke GitHub.
